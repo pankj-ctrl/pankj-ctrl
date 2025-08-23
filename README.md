@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌄 I'm currently working on Web Development .<br>😊 I'm crazy about learning Something Different .<br>♾️ Know about İOT using ESP32 & ESP8266.<br>😎 Crazy about Hacking.
+🌄 I'm currently working on Web Development .<br>😊 I'm crazy about learning Something Different 
 
 
 # 💻 Tech Stack:
